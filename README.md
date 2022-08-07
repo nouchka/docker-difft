@@ -1,4 +1,8 @@
 # docker-difft
+[![Docker pull](https://img.shields.io/docker/pulls/nouchka/difft)](https://hub.docker.com/r/nouchka/difft/)
+[![Docker stars](https://img.shields.io/docker/stars/nouchka/difft)](https://hub.docker.com/r/nouchka/difft/)
+[![Build Status](https://gitlab.com/japromis/docker-difft/badges/master/pipeline.svg)](https://gitlab.com/japromis/docker-difft/pipelines)
+[![Docker size](https://img.shields.io/docker/image-size/nouchka/difft/latest)](https://hub.docker.com/r/nouchka/difft/)
 
 
 
@@ -6,7 +10,6 @@
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
 ## Add your files
 
@@ -46,7 +49,6 @@ Use the built-in continuous integration in GitLab.
 
 # Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
 ## Suggestions for a good README
 Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
